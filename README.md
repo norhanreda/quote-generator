@@ -1,7 +1,5 @@
 # quote-generator
+it is a simple quote-generator built with react js
 
-hello there, your task is to add social media share buttons, which can be used to share quote on different social media platforms such as whatsapp, twitter, and so on.
-
-fork the repository and start working on it.
-
-best of luck.
+# website link
+https://quote-generator-4db5a.web.app
